@@ -1,2 +1,2 @@
-# baogongyoucai
-理财项目
+# vue-finance
+vue版理财项目
